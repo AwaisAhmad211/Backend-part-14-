@@ -1,0 +1,11 @@
+In this part we will learn about authentication and authorization .
+
+*  AUTHENTICATION :
+                   ye pata lagana ky user kon hai authentication khelata hai.Matlab user ko validate karna.
+*  AUTHORIZATION  : 
+                   ye check karna ky koi user ky pass kon kon sy task perform karny ki authority hai authorization khelati hai.
+In dono tasks ko properly perform karny ky liye hamy kuch chizy alag sy sikhni pary gi jo nichy explain ki hoi hai.
+
+1 ->  COOKIE kaisy set karty hai or read karty hai :-
+2 ->  bcrypt ko password encryption or decryption ky liye kaisy use karty hai :-
+3 ->  jwt(json web token) kiye hai or is mai data kaisy store karin or nikalain :-
